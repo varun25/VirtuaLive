@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:padding="20dp"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#AA00AA"
+        android:textSize="20dp"
+        android:id="@+id/descc"
+        android:text="Ulsoor Lake' or Halasuru Lake, one of the biggest lakes in Bangalore, is located on the eastern side of the city. It derives its name from the name of the locality it is situated, namely, Halasuru , close to M G Road. It is spread over 50 ha (123.6 acres)) and has several islands. Even though the lake is dated to Kempegowdas' time, the present lake was created by Sir Lewin Bentham Bowring, the then Commissioner of Bangalore."/>
+
+</LinearLayout>

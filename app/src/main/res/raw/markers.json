@@ -1,0 +1,135 @@
+﻿[
+  {
+    "id": "1",
+    "lat": "27.175002",
+    "long": "78.042177",
+    "name": "Taj Mahal",
+    "desc": "17th-century, Mughal-style, marble mausoleum with minarets, a mosque & famously symmetrical gardens."
+  },
+  {
+    "id": "2",
+    "lat": "12.983404",
+    "long": "77.619943",
+    "name": "Ulsoor Lake",
+    "desc": "Ulsoor Lake' or Halasuru Lake, one of the biggest lakes in Bangalore, is located on the eastern side of the city. It derives its name from the name of the locality it is situated, namely, Halasuru , close to M G Road."
+  },
+  {
+    "id": "3",
+    "lat": "12.978856",
+    "long": "77.599593",
+    "name": "M Chinnaswamy Stadium",
+    "desc": "The M. Chinnaswamy Stadium, located in Bengaluru, Karnataka, is a stadium owned by the Government of Karnataka. Flanked by the picturesque Cubbon Park, Queen's Road, Cubbon and uptown MG Road, this four decade old stadium is situated in the heart of the city of Bengaluru."
+  },
+  {
+    "id": "4",
+    "lat": "12.950815",
+    "long": "77.584757",
+    "name": "Lalbagh Botanical Garden",
+    "desc": "Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well-known botanical garden in southern Bengaluru, India. It has a famous glass house dating from 1889 which hosts two annual flower shows (26 January and 15 August). Lalbagh houses India's largest collection of tropical plants."
+  },
+  {
+    "id": "5",
+    "lat": "12.977510",
+    "long": "77.590692",
+    "name": "Vidhana Soudha",
+    "desc": "The Vidhana Soudha located in Bengaluru, is the seat of the state legislature of Karnataka. It is an imposing building, constructed in a style sometimes described as Mysore Neo-Dravidian, and incorporates elements of Indo-Saracenic and Dravidian styles."
+  },
+  {
+    "id": "6",
+    "lat": "12.974339",
+    "long": "77.590608",
+    "name": "State Central Library",
+    "desc": "Historic library housed in a striking red building with a unique round room, on the edge of a park."
+  },
+  {
+    "id": "7",
+    "lat": "12.976337",
+    "long": "77.592931",
+    "name": "Cubbon Park",
+    "desc": "Established in 1870, this vibrant city park has walking paths, landscaped gardens & play areas."
+  },
+  {
+    "id": "8",
+    "lat": "12.986640",
+    "long": "77.743542",
+    "name": "ITPL",
+    "desc": "International Tech Park commonly called ITPL and ITPB is a tech park located in Whitefield, Bangalore, 18 km from the city centre. It is managed by Ascendas. It includes the 450,000 square foot Park Square Mall, several sporting arenas and the Vivanta by Taj hotel."
+  },
+  {
+    "id": "9",
+    "lat": "12.945124",
+    "long": "77.583062",
+    "name": "Lalbagh Lake",
+    "desc": "Lalbagh Lake is a spot of splendid beauty located in the heart of the city of Bangalore. The lake is situated at the southern end of the very famous Lalbagh Botanical Gardens that is well known for its exotic flora and is host to the world famous flower show."
+  },
+  {
+    "id": "11",
+    "lat": "28.656179",
+    "long": "77.241019",
+    "name": "The Red Fort",
+    "desc": "The Lahori Gate is the main entrance to the Red Fort in Delhi. The fort is approached through a covered street flanked by arcaded apartments called the Chhatta Chowk."
+  },
+  {
+    "id": "13",
+    "lat": "28.524432",
+    "long": "77.185458",
+    "name": "Qutb Minar",
+    "desc": "The Qutub Minar, also spelled as Qutab Minar, or Qutb Minar, is a minaret that forms a part of the Qutab complex, a UNESCO World Heritage Site in the Mehrauli area of Delhi, India."
+  },
+  {
+    "id": "14",
+    "lat": "28.612920",
+    "long": "77.229518",
+    "name": "India Gate",
+    "desc": "The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the \"ceremonial axis\" of New Delhi, India, formerly called Kingsway."
+  },
+  {
+    "id": "15",
+    "lat": "24.576447",
+    "long": "73.683510",
+    "name": "City Palace, Udaipur",
+    "desc": "City Palace, Udaipur, is a palace complex situated in the city of Udaipur, Rajasthan. It was built over a period of nearly 400 years, with contributions from several rulers of the Mewar dynasty."
+  },
+  {
+    "id": "16",
+    "lat": "31.619983",
+    "long": "74.876484",
+    "name": "Golden Temple",
+    "desc": "Sri Harmandir Sahib, also known as Darbar Sahib, informally referred to as the Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is one of the most revered spiritual sites of Sikhism."
+  },
+  {
+    "id": "17",
+    "lat": "28.553504",
+    "long": "77.258822",
+    "name": "Lotus Temple",
+    "desc": "The Lotus Temple, located in Delhi, India, is a Bah House of Worship that was dedicated in December 1986, costing 10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city."
+  },
+  {
+    "id": "18",
+    "lat": "9.919507",
+    "long": "78.119343",
+    "name": "Meenakshi Temple",
+    "desc": "Meenakshi Temple, also referred to as Meenakshi Amman or Minakshi-Sundareshwara Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India."
+  },
+  {
+    "id": "19",
+    "lat": "17.361568",
+    "long": "78.474664",
+    "name": "Charminar",
+    "desc": "The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India."
+  },
+  {
+    "id": "20",
+    "lat": "17.383322",
+    "long": "78.401057",
+    "name": "Golkonda",
+    "desc": "Golkonda, also known as Golconda, Gol konda, or Golla konda, is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty, is situated 11 km west of Hyderabad."
+  },
+  {
+    "id": "21",
+    "lat": "12.966057",
+    "long": "77.712174",
+    "name": "CMRIT",
+    "desc": "Our Beloved College! CMRIT is not just a college. It’s a community of pro-active students with ambitious dreams. A dream of a bright future. A dream of a successful life. And we, at CMRIT, provide our students with all the necessary tools and guidance to convert these dreams into actions."
+  }
+]

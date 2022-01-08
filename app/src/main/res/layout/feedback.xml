@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#000">
+
+    <TextView
+        android:id="@+id/contact_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contact Us"
+        android:textSize="25sp"
+        android:textColor="#ffffff"
+        android:layout_marginTop="12dp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"/>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:isScrollContainer="false"
+        android:layout_below="@+id/contact_title"
+        android:layout_marginTop="20dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:textColorHint="@android:color/darker_gray"
+                android:background="@android:color/white"
+                android:id="@+id/textSubject"
+                android:hint="Subject" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:inputType="textMultiLine"
+                android:scrollbars="vertical"
+                android:hint="Your message"
+                android:layout_below="@+id/textSubject"
+                android:layout_margin="10dp"
+                android:padding="10dp"
+                android:textColorHint="@android:color/darker_gray"
+                android:gravity="top"
+                android:background="@android:color/white"
+                android:id="@+id/textMessage" />
+
+            <Button
+                android:text=" SEND "
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_marginTop="10dp"
+                android:id="@+id/buttonSend"
+                android:layout_gravity="center"
+                android:layout_below="@+id/textMessage"
+                android:textAllCaps="false"
+                android:padding="10dp"
+                android:onClick="sendFeed"
+                android:textColor="@android:color/white"
+                android:background="#ffd194"
+                android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+
+    </ScrollView>
+</RelativeLayout>
